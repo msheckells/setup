@@ -1,6 +1,6 @@
 #!/bin/bash
 APT_PACKAGES="vim git cmake-gui build-essential python-catkin-tools ros-indigo-desktop 
-              nvidia-cg-toolkit libois-dev libois-1.3.0 libeigen3-dev"
+              nvidia-cg-toolkit libois-dev libois-1.3.0 libeigen3-dev freeglut3-dev"
 
 #if [[ $EUID -ne 0 ]]; then
 #   echo "This script must be run as root" 1>&2
