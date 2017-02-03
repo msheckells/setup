@@ -1,6 +1,6 @@
 #!/bin/bash
 APT_PACKAGES="indicator-multiload spotify-client cairo-dock cairo-dock-plug-ins gummi
-	      texlive-full"
+	      texlive-full gimp steam"
 
 #if [[ $EUID -ne 0 ]]; then
 #   echo "This script must be run as root" 1>&2
